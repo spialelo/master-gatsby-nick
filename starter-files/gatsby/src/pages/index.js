@@ -1,9 +1,10 @@
 import React from 'react';
+import Layout from '../components/Layout';
 
 export default function HomePage() {
   return (
-    <div>
-      <p>hey, i'm at the home page.</p>
-    </div>
+    <Layout>
+      <p>hey, i'm at the HOME page.</p>
+    </Layout>
   );
 }
