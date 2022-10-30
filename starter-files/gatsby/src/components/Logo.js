@@ -26,6 +26,7 @@ const LogoStyles = styled.div`
   .est {
     font-size: 1.5em;
     align-self: center;
+    text-align: center;
   }
   h1 {
     display: grid;
